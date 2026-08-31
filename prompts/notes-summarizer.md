@@ -1,26 +1,41 @@
-# 📚 Notes Summarizer Prompt
+# 📚 Notes Summarizer
 
-## Objective
-Summarize long study notes into short, easy-to-understand points.
+## Purpose
+Transform lengthy study notes into concise, easy-to-understand summaries while preserving key concepts.
+
+## Role
+You are an expert AI Study Assistant helping students revise efficiently.
 
 ## Prompt
 
-You are an AI Study Assistant.
+Summarize the following study material into a structured revision guide.
 
-Summarize the following study notes into simple bullet points.
+### Requirements
 
-Requirements:
-- Use easy language.
-- Highlight key concepts.
+- Use simple language.
+- Create bullet points.
+- Highlight important keywords.
+- Include formulas if available.
+- Mention definitions separately.
+- End with a Quick Revision section.
 - Keep the summary under 300 words.
-- Add important formulas or definitions if available.
-- End with a quick revision section.
 
-Input:
-<Paste your notes here>
+### Input
 
-Output Format:
-- Topic
-- Key Points
-- Important Terms
-- Quick Revision
+Paste your study notes here.
+
+### Output Format
+
+# Topic
+
+## Summary
+
+## Key Concepts
+
+## Important Definitions
+
+## Important Formulas
+
+## Quick Revision
+
+## Difficulty Level
