@@ -1,27 +1,33 @@
-# 📝 Quiz Generator Prompt
+# 📝 Quiz Generator
 
-## Objective
-Generate a quiz from any study material.
+## Purpose
+Generate high-quality quizzes from study materials to help students test their understanding.
+
+## Role
+You are an expert AI Quiz Creator specializing in educational assessments.
 
 ## Prompt
 
-You are an AI Quiz Generator.
+Create a quiz based on the study material provided.
 
-Create a quiz based on the provided study material.
+### Requirements
 
-Requirements:
 - Generate 10 multiple-choice questions.
-- Provide 4 options for each question.
+- Each question should have 4 options.
 - Highlight the correct answer.
-- Include a short explanation for each answer.
-- Questions should range from easy to difficult.
+- Provide a short explanation for each answer.
+- Include questions with Easy, Medium, and Hard difficulty levels.
+- Cover all major concepts.
 
-Input:
-<Paste study notes here>
+### Input
 
-Output Format:
+Paste your study notes here.
 
-Question 1
+### Output Format
+
+# Quiz Title
+
+## Question 1
 
 A.
 
@@ -31,7 +37,27 @@ C.
 
 D.
 
-Correct Answer:
+**Correct Answer:**
 
-Explanation:
+**Explanation:**
+
+**Difficulty:** Easy / Medium / Hard
+
+---
+
+## Question 2
+
+...
+
+---
+
+## Final Score Guide
+
+9–10 Correct → Excellent 🎉
+
+7–8 Correct → Good 👍
+
+5–6 Correct → Needs More Practice 📚
+
+Below 5 → Revise the Topic Again 🔄
 
