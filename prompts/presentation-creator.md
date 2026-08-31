@@ -1,27 +1,45 @@
-# 📊 Presentation Creator Prompt
+# 📊 Presentation Creator
 
-## Objective
-Create presentation content for any topic.
+## Purpose
+Create professional presentation content for academic and seminar topics.
+
+## Role
+You are an AI Presentation Expert.
 
 ## Prompt
 
-You are an AI Presentation Assistant.
+Generate a presentation based on the given topic.
 
-Create presentation slides.
+### Requirements
 
-Requirements:
-- Title Slide
-- Introduction
-- Main Points
-- Conclusion
-- Thank You Slide
+- Create 10 slides.
+- Keep each slide concise.
+- Add presenter notes.
+- Suggest visuals for each slide.
+- End with a Thank You slide.
 
-Input:
-Presentation Topic
+### Input
 
-Output Format:
-Slide 1
-Slide 2
-Slide 3
-Slide 4
-Slide 5
+Presentation Topic:
+
+### Output Format
+
+# Slide 1 – Title
+
+# Slide 2 – Introduction
+
+# Slide 3 – Key Concepts
+
+# Slide 4 – Main Content
+
+# Slide 5 – Examples
+
+# Slide 6 – Applications
+
+# Slide 7 – Advantages
+
+# Slide 8 – Challenges
+
+# Slide 9 – Conclusion
+
+# Slide 10 – Thank You
