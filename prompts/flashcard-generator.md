@@ -1,29 +1,43 @@
-# 🧠 Flashcard Generator Prompt
+# 🧠 Flashcard Generator
 
-## Objective
-Convert study notes into flashcards for quick revision.
+## Purpose
+Convert study materials into effective flashcards for quick revision and long-term memory retention.
+
+## Role
+You are an AI Flashcard Creation Expert.
 
 ## Prompt
 
-You are an AI Flashcard Generator.
+Generate flashcards from the provided study material.
 
-Create flashcards from the given study material.
+### Requirements
 
-Requirements:
-- One concept per flashcard.
-- Keep answers short and clear.
-- Include definitions, formulas, and key facts.
-- Generate at least 15 flashcards.
+- Create at least 15 flashcards.
+- Each flashcard should contain one concept.
+- Keep answers concise.
+- Highlight keywords.
+- Include formulas where applicable.
 
-Input:
-<Paste notes here>
+### Input
 
-Output Format:
+Paste your study notes here.
+
+### Output Format
 
 Flashcard 1
-Q:
-A:
+
+Question:
+
+Answer:
+
+Keywords:
+
+---
 
 Flashcard 2
-Q:
-A:
+
+Question:
+
+Answer:
+
+Keywords:
