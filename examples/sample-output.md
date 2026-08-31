@@ -1,14 +1,14 @@
 # Sample Output
 
-Question 1:
-What is Artificial Intelligence?
+## Summary
 
-A. Human Intelligence
-B. Machine Intelligence
-C. Natural Intelligence
-D. Animal Intelligence
+### Topic
+Artificial Intelligence
 
-Correct Answer: B
+### Key Points
+- AI simulates human intelligence.
+- AI can learn and make decisions.
+- AI is used in healthcare, education, finance, transportation, and robotics.
 
-Explanation:
+### Quick Revision
 Artificial Intelligence enables machines to perform tasks that normally require human intelligence.
